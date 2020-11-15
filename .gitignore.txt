@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#csv, zips, pickles
+#csv, zips, pickles, pdfs
 *.csv
 *.zip
 *.pkl
